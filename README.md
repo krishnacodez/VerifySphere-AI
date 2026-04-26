@@ -247,10 +247,18 @@ Key dependencies are listed in `package.json`. Major categories:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
+## 👨‍💻 My Contribution
+- Developed backend APIs using Spring Boot  
+- Handled input processing for text, image, and news articles  
+- Integrated AI model for generating truth probability scores  
+- Implemented validation, error handling, and response formatting
 
-This project is private and proprietary.
+- ## 🤝 Team
+- Krishna Kolhapur (Backend)
+- [Saiesh Upardekar] (Frontend)
+- [Yash Sharma] (AI/Model)
 
+- 
 ## 🙏 Acknowledgments
 
 - Built with [Vite](https://vitejs.dev/)
